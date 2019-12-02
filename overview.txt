@@ -1,0 +1,36 @@
+Overview
+========
+
+Training Data
+-------------
+Nominations + wins for major academy award categories for 1999 - 2019:
+    - Best Picture
+    - Best Director
+    - Best Actor in a Leadin Role
+    - Best Actress in a Leading Role
+    - Best Actor in a Supporting Role
+    - Best Actress in a Supporting Role
+    - Best Original Screenplay?
+    - Best Adapted Screenplay?
+    - Best Animated Film?
+    
+Features
+--------
+Precursor Awards:
+(nominated + won)
+    - Emmy Awards
+    - Baftas
+    
+Previous Year Awards:
+(nominated + won)
+    - Academy Awards - Best Picture: Producers?
+    - Precursors
+
+Film Info:
+    - Month of release
+    - Box office performance
+    - Runtime?
+    - Genre
+    - Tags
+    
+For Your Consideration Ads?
